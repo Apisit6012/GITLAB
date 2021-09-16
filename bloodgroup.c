@@ -6,17 +6,17 @@ void main()
   do
   {
 <<<<<<< HEAD
-    printf("What is your Name? Aomsinb");
-    scanf("%s", Name);
-    do
-    {
-      printf("What is your blood group ^^b[A, B, AB, or O]? ");
-=======
-    printf("aWhat is your Name? Aomsin");
+    printf("Aomsin What is your Name? Aomsin");
     scanf("%s", Name);
     do
     {
       printf("aWhat is your blood group ^^[A, B, AB, or O]? ");
+=======
+    printf("What is your Name? Aomsin");
+    scanf("%s", Name);
+    do
+    {
+      printf("What is your blood group [A, B, AB, or O]? ");
 >>>>>>> 445bc6cc4596281e0a4da7d6e1133ecf4f6c8f00
       scanf("%s", G);
 
